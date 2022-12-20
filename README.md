@@ -1,0 +1,2 @@
+# InventoryMangementSystem
+Inventory management subsystem
